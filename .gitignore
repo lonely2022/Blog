@@ -2,12 +2,8 @@
 Thumbs.db
 db.json
 *.log
-node_modules/
-public/
 .deploy*/
-.vscode/
-.idea/
-/.idea/
-.deploy_git*/
-.idea
-themes/butterfly/.git
+public/
+node_modules/
+search.xml
+source/_data/bilibili.json
